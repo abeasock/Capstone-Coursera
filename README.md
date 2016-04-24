@@ -13,3 +13,5 @@ Source code for ui.R and server.R files are available in the "project_app" folde
 R presentation for pitching the app is available also available on my [RPubs](https://rpubs.com/abeasock/capstone_presentation)
 
 The Shiny App is available at: https://amberbeasock.shinyapps.io/capstone_app/
+
+For more information about this course: https://www.coursera.org/learn/data-science-project
